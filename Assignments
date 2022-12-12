@@ -14,3 +14,7 @@ Add radio and checkbox in DemoForm.js
 Assignment 4
 --------------
 Hit the Fake API Endpoint - https://fakestoreapi.com/products and show the product with image, title and price. Use Class based ReactJS
+
+Assignment 5
+------
+Hit the Fake API Endpoint - https://fakestoreapi.com/products and show the product with image, title and price. Use Hook based ReactJS
