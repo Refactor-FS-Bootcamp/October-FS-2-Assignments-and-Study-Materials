@@ -18,3 +18,7 @@ Hit the Fake API Endpoint - https://fakestoreapi.com/products and show the produ
 Assignment 5
 ------
 Hit the Fake API Endpoint - https://fakestoreapi.com/products and show the product with image, title and price. Use Hook based ReactJS
+
+Assignment 6
+------
+Add the functionality to add Edit option to edit Name and/or email in Contact App.
